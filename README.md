@@ -1,4 +1,4 @@
-# Real-Time_Stock-Price_Dashboard_with_Jupyter_Notebooks
+# Real-Time Stock Price Dashboard with Jupyter Notebooks
 Analyzing stock data using Jupyter Notebook and visualize by transforming the notebook into an web application through an open-source framework, Mercury
 
 # Objectives
@@ -10,5 +10,9 @@ Analyzing stock data using Jupyter Notebook and visualize by transforming the no
 
 # Files
 `lab1-20230903-1693699200.ipynb`: original lab with instructions\
-`Real-Time Stock Price Dashboard.ipynb`: own version of stock price analysis\
-`Real-Time Stock Price Dashboard.html`: html version with codes and outputs
+`Real-Time_Stock_Price_Dashboard.ipynb`: own version of stock price analysis\
+`demo.ipynb`: Notebook uploaded to Mercury for visualiztion\
+`Real-Time Stock Price Dashboard.html`: html version with codes and outputs\
+Mercury Dashboard: https://yuun.runmercury.com 
+
+
